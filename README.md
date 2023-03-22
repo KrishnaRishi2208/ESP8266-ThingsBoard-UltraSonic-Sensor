@@ -18,7 +18,7 @@ Jumper wires
       
       esp8266 Vin  ----> Ultrasonic Vcc
 
-2)Then,download and run the UltrasonicDataSend.ino file. In the file, change your ssid,password.
+2)Then,download and run the UltrasonicDataSend.ino file. In the file, change your ssid,password,token.
 
 
 3)Then, go to https://demo.thingsboard.io/ and sign in to your account.
