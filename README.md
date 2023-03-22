@@ -30,6 +30,8 @@ Jumper wires
       Go to dashboards and import ultrasonic_test.json file.
       
       In the dashboard, change the alias to the device you just created.
+      
+      Here, you may need to add the data key as "distance"(use the same spelling).
 
 4)Now, upload your code to esp8266 and view the data on your ThingsBoard dashboard.
 
